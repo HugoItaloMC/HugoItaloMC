@@ -16,13 +16,13 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HugoItaloMC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="HugoItaloMC-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="HugoItaloMC-FastAPI" height="30" width="40" src="https://fastapi.tiangolo.com/img/icon-white.svg">
     <img align="center" alt="HugoItaloMC-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" alt="HugoItaloMc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="HugoItaloMC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="HugoItaloMC-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="HugoItaloMC-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+     <img align="center" alt="HugoItaloMC-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="right" alt="HugoItaloMC-GIF" height="300" width="300" src="https://cdn.discordapp.com/attachments/1037569752090030171/1039252775030235176/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
 
