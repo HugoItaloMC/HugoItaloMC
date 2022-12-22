@@ -37,19 +37,18 @@
   
 </div>
 
-### Tools:
+###  Tools:
 <div>
     <img align="center" alt="HugoItaloMC-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg">
     <img align="center" alt="HugoItaloMC-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="HugoItaloMC-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+    
 
-  
-  ### 📚 Learnings:
-  
-  <div>
-    <img align="center" alt="HugoItaloMC-LearningsData" height="500" width="500" src="https://wakatime.com/share/@hugofulldev/6dc1807d-c0fd-4591-a5d8-e4a23efc1c8f.svg">
-  </div>
+
+#### os:
+  <img align="center" alt="HugoItaloMC-Linux" height="30" width="40" src="https://www.seekpng.com/png/full/194-1946302_collection-of-free-penguin-svg-copyright-free-linux.png">
+  <img align="center" alt="HugoItalo-Debian" height="30" width="40" src="https://www.shareicon.net/data/128x128/2015/09/16/101872_debian_512x512.png">
+</div>
   
   
 ### Entre em contato! ✉️
