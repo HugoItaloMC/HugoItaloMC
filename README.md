@@ -39,15 +39,17 @@
 
 ###  Tools:
 <div>
-    <img align="center" alt="HugoItaloMC-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg">
-    <img align="center" alt="HugoItaloMC-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="HugoItaloMC-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img align="center" alt="HugoItaloMC-PycharmIDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg">
+    <img align="center" alt="HugoItaloMC-VSCodeIDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="HugoItaloMC-EclipseIDE" height="30" width="30" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png">
+    <img align="center" alt="HugoItaloMC-jupyterIDE" height="30" width="120" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg">
+   <img align="center" alt="HugoItaloMC-GitHubVCS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+
     
-
-
 #### os:
-  <img align="center" alt="HugoItaloMC-Linux" height="30" width="40" src="https://www.seekpng.com/png/full/194-1946302_collection-of-free-penguin-svg-copyright-free-linux.png">
-  <img align="center" alt="HugoItalo-Debian" height="30" width="40" src="https://www.shareicon.net/data/128x128/2015/09/16/101872_debian_512x512.png">
+  <img align="center" alt="HugoItaloMC-Linux" height="30" width="30" src="https://www.seekpng.com/png/full/194-1946302_collection-of-free-penguin-svg-copyright-free-linux.png">
+  <img align="center" alt="HugoItalo-Debian" height="30" width="30" src="https://www.shareicon.net/data/128x128/2015/09/16/101872_debian_512x512.png">
 </div>
   
   
