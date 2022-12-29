@@ -44,7 +44,7 @@
     <img align="center" alt="HugoItaloMC-EclipseIDE" height="30" width="30" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png">
     <img align="center" alt="HugoItaloMC-jupyterIDE" height="30" width="120" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg">
    <img align="center" alt="HugoItaloMC-GitHubVCS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
+<img align="center" alt="HugoItaloMC-InsomniaTestAPI" height="30" width="120" src="https://insomnia.rest/images/insomnia-logo.svg">
 
     
 #### os:
