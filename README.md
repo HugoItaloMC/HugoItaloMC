@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HugoItaloMC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="HugoItaloMC-FastAPI" height="30" width="40" src="https://fastapi.tiangolo.com/img/icon-white.svg">
+    <img align="center" alt="HugoItaloMC-FastAPI" height="40" width="110" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
     <img align="center" alt="HugoItaloMC-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" alt="HugoItaloMc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="HugoItaloMC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
