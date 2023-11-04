@@ -2,7 +2,7 @@
 
 ### Quem sou 👍
 
-- 🎓 Vejo há Tecnologia como meio de integracão de empreendimentos para nova era digital dos negócios, poder oferecer esses servicos a pessoas e empresas é uma grande honra. Estudante Análise e Desenvolvimento de Sistemas, Desenvolvimento Web e Desktop para há criacão de aplicacões e sistemas.
+- 🎓 Vejo a Tecnologia como meio de integracão de empreendimentos para nova era digital dos negócios, poder oferecer esses servicos a pessoas e empresas é uma grande honra. Estudante Análise e Desenvolvimento de Sistemas, Desenvolvimento Web e Desktop para há criacão de aplicacões e sistemas.
 - 📌 De São Paulo, SP, Brasil. 
 - 🌱 Atualmente estou aprendendo Python: FastAPI, django com seus respectivos padrões de projetos
 - ⚡ Hobiies: Futebol, pedalar de bike, assistir filmes e séries, ouvir músicas, ler livros, jogar games.
